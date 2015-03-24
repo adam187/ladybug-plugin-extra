@@ -39,10 +39,12 @@ class ExtraPlugin implements PluginInterface
             'ladybug_dump_die',
             'ladybug_dump_class',
             'ladybug_dump_class_die',
+            'ladybug_dump_return',
             'ld',
             'ldd',
             'ldc',
-            'ldcd'
+            'ldcd',
+            'ldr'
         );
     }
 
